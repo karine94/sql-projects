@@ -1,14 +1,6 @@
-# :notebook_with_decorative_cover: SQL Data Exploration Covid 19
-
-**Author**: Karine Almeida  
-**Email**: karinealmeida.kca@gmail.com    
-**LinkedIn**:   
-
+# SQL Data Exploration Covid 19
 ## Introdução  
-
-Foi realizada uma análise em SQL para reportar as consequências da Covid 19 ao redor do mundo
-
-[Questões e respostas - Data Analysis]()
+Foi realizada uma análise em SQL para reportar as consequências da Covid 19 ao redor do mundo  
 
 ## Datasets usados
 -  Os datasets utilizados neste projeto você encontra [neste site](https://ourworldindata.org/covid-deaths);
