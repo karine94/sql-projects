@@ -1,4 +1,4 @@
-# Final work for the `SQL FOR DATA SCIENCE` course offered by Coursera
+# Final work for the SQL For Data Science course offered by Coursera
 
 ## Part 1: Yelp Dataset Profiling and Understanding
 
